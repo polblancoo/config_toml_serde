@@ -1,0 +1,9 @@
+[database]
+username = "marc"
+password = "1234"
+
+[google]
+api_key = "google_api_key"
+
+[jwt]
+secret_token= "secret jwt"
